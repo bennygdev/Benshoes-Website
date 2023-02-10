@@ -1,6 +1,7 @@
 # Benshoes-Website
 This is a project that requires me to develop a website with desktop, tablet and mobile view in under a week using HTML, CSS, JavaScript and a framework called Bootstrap.
 ![image](https://user-images.githubusercontent.com/39120147/202962137-9a5e2ae4-cf58-4076-9cfc-ea1090325a5b.png)
+Demo: WIP
 
 
 # More description
