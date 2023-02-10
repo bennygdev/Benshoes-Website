@@ -1,18 +1,22 @@
 # Benshoes-Website
-This is a project that requires me to develop a website with desktop, tablet and mobile view in under a week using HTML, CSS, JavaScript and a framework called Bootstrap.
-![image](https://user-images.githubusercontent.com/39120147/202962137-9a5e2ae4-cf58-4076-9cfc-ea1090325a5b.png)
+This is a project that requires me to develop a website with desktop, tablet and mobile view in under a week using HTML, CSS, JavaScript and a framework called Bootstrap.<br>
+
 Demo: https://benshoes-website.netlify.app
+
+<br>
+
+![image](https://user-images.githubusercontent.com/39120147/202962137-9a5e2ae4-cf58-4076-9cfc-ea1090325a5b.png)
 
 
 # More description
+NOTE: RE-DID the shopping cart functionality, so the cart works now. Did this project back in around october or november, this week I decided to rewrite the shopping cart functionality for the website.
+
 1. I made this website for my school website, that requires the use of extensive knowledge of HTML, CSS, Javascript and Bootstrap to develop a E-commerence website with a shopping cart system.
 2. I made this website in under a week, so please do not take this too seriously as this may contain some broken functionality in certain parts.
 3. The shopping cart system is broken, you can add products to the cart but you cannot remove the products, that is the downside that i was not able to fix in such a short period of time.
 4. In the future, I might update this website and fix some functionalities whenever I am free.
 5. As I am still learning those programming languages and frameworks, do not expect it to run very smoothly.
 6. To remove all the products manually from the cart, open developer tools, go to application and click on local storage, and click on the http:// tab listed under local storage. From the top right, next to the cross you click on the "No symbol" icon and it will remove all the data stored in the cart.<br><br>
-
-EDIT: RE-DID the shopping cart functionality, so the cart works now.
 
 # Programming languages and Frameworks used
 1. HTML
