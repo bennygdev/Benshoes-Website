@@ -9,7 +9,7 @@ Demo: https://benshoes-website.netlify.app
 
 
 # More description
-NOTE: RE-DID the shopping cart functionality, so the cart works now. Did this project back in around october or november, this week I decided to rewrite the shopping cart functionality for the website.
+NOTE: RE-DID the shopping cart functionality, so the cart works now. Did this project back in around october or november of 2022, this week (Feb 2023) I decided to rewrite the shopping cart functionality for the website.
 
 1. I made this website for my school website, that requires the use of extensive knowledge of HTML, CSS, Javascript and Bootstrap to develop a E-commerence website with a shopping cart system.
 2. I made this website in under a week, so please do not take this too seriously as this may contain some broken functionality in certain parts.
