@@ -1,7 +1,7 @@
 # Benshoes-Website
 This is a project that requires me to develop a website with desktop, tablet and mobile view in under a week using HTML, CSS, JavaScript and a framework called Bootstrap.
 ![image](https://user-images.githubusercontent.com/39120147/202962137-9a5e2ae4-cf58-4076-9cfc-ea1090325a5b.png)
-Demo: WIP
+Demo: https://benshoes-website.netlify.app
 
 
 # More description
@@ -12,7 +12,7 @@ Demo: WIP
 5. As I am still learning those programming languages and frameworks, do not expect it to run very smoothly.
 6. To remove all the products manually from the cart, open developer tools, go to application and click on local storage, and click on the http:// tab listed under local storage. From the top right, next to the cross you click on the "No symbol" icon and it will remove all the data stored in the cart.<br><br>
 
-EDIT: RE-DID the shopping cart functioanlity, so the cart works now.
+EDIT: RE-DID the shopping cart functionality, so the cart works now.
 
 # Programming languages and Frameworks used
 1. HTML
@@ -40,7 +40,7 @@ Shop Page (2/2)
 ![image](https://user-images.githubusercontent.com/39120147/202962446-ae16371e-813a-46e6-837c-822a5de1a969.png)
 
 Cart Page (1/1)
-![image](https://user-images.githubusercontent.com/39120147/202962530-57428356-e93c-4d93-98a1-9316dd3d4179.png)
+![image](https://user-images.githubusercontent.com/39120147/218059256-4b5679b1-dc9d-439e-90eb-8f012b371571.png)
 
 About Us Page (1/2)
 ![image](https://user-images.githubusercontent.com/39120147/202962599-2f60d86a-5843-4b7d-af13-dcac47968aa8.png)
