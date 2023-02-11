@@ -1,5 +1,13 @@
+:root{
+    --carouselBG: rgba(0, 0, 0, 0.3);
+    --primary-black: #000;
+    --primary-white: #FFF;
+    --cart-gray: #ced4da;
+    --ionicon-primary: #0000FF;
+}
+
 .carousel-indicators{
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: var(--carouselBG);
     width: 50%;
     height: 25px;
     margin: 0 auto;
@@ -14,28 +22,28 @@
 }
 
 .carousel-control-prev .homecarouselprev{
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: var(--carouselBG);
     width: 25%;
     height: 20%;
     margin: 25% 75% 25% 0;
 }
 
 .carousel-control-next .homecarouselnext{
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: var(--carouselBG);
     width: 25%;
     height: 20%;
     margin: 25% 0 25% 75%;
 }
 
 .carousel-control-prev .shopcarouselprev{
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: var(--carouselBG);
     width: 25%;
     height: 35%;
     margin: 25% 75% 25% 0;
 }
 
 .carousel-control-next .shopcarouselnext{
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: var(--carouselBG);
     width: 25%;
     height: 35%;
     margin: 25% 0 25% 75%;
@@ -58,21 +66,25 @@
 }
 
 .shoesizebuttons button{
-    background-color: white;
+    background-color: var(--primary-white);
 }
 
 .shoelogo img{
     width: 6.5rem;
 }
 
+.footerlogo img{
+    width: 17.5rem;
+}
+
 .shoesizebuttons button:hover{
-    background-color: black;
-    color: white;
+    background-color: var(--primary-black);
+    color: var(--primary-white);
 }
 
 .cartsection ion-icon {
     font-size: 25px;
-    color: blue;
+    color: var(--ionicon-primary);
     margin-left: 10px;
     margin-right: 10px;
     cursor: pointer;
@@ -84,7 +96,7 @@
 }
 
 .productcart{
-    border: 1px solid #ced4da;
+    border: 1px solid var(--cart-gray);
     border-radius: 15px;
 }
 
@@ -101,6 +113,15 @@
 .cartsection .quantity{
     display: inline-block;
     margin-left: 150px;
+}
+
+.footertop{
+    color: var(--primary-white);
+    text-decoration: none;
+}
+
+.footerbody{
+    text-decoration: none;
 }
 
 #map{
